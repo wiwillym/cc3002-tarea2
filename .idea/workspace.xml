@@ -1972,7 +1972,7 @@
                   <point x="-99.125" y="179.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.49382716049382713" x="933.0" y="7394.0" />
+              <settings layout="Hierarchic Group" zoom="0.49382716049382713" x="933.0" y="7709.9" />
               <SelectedNodes>
                 <node>cc3002.tarea2.Visitor</node>
               </SelectedNodes>
@@ -2054,7 +2054,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="1045" />
     <option name="height" value="1048" />
@@ -2306,7 +2306,7 @@
       <workItem from="1560647286192" duration="3578000" />
       <workItem from="1560722867592" duration="7958000" />
       <workItem from="1560742596757" duration="29338000" />
-      <workItem from="1560772573984" duration="3144000" />
+      <workItem from="1560772573984" duration="3291000" />
     </task>
     <servers />
   </component>
@@ -2343,11 +2343,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105456000" />
+    <option name="totallyTimeSpent" value="105603000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.2750533" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.1369936" />
@@ -2358,7 +2357,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010941" side_tool="true" weight="0.24766356" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33802816" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33802816" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -4672,7 +4671,7 @@
               <point x="-99.125" y="179.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.49382716049382713" x="933.0" y="7394.0" />
+          <settings layout="Hierarchic Group" zoom="0.49382716049382713" x="933.0" y="7709.9" />
           <SelectedNodes>
             <node>cc3002.tarea2.Visitor</node>
           </SelectedNodes>
